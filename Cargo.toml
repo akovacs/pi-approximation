@@ -1,0 +1,7 @@
+[package]
+name = "pi_approximation"
+version = "0.1.0"
+authors = ["Arpad Kovacs <minhmeoke@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
